@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Blockchain development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any innovative projects involving use of Python and MySQL
-- 📫 How to reach me - mannatbhatt497@gmail.com
+- 📫 How to reach me - mannatbhatt159@gmail.com
 
 <!---
 Mannatbhatt/Mannatbhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
