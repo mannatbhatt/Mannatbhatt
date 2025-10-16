@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mannatbhatt
-- 👀 I’m interested in AI and Blockchain development
+- 👀 I’m interested in AI and IoT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any innovative projects involving use of Python and MySQL
 - 📫 How to reach me - mannatbhatt159@gmail.com
