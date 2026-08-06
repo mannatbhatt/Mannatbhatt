@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Mannatbhatt
-- 👀 I’m interested in AI and IoT
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any innovative projects involving use of Python and MySQL
-- 📫 How to reach me - mannatbhatt497@gmail.com
+👋 Hi, I'm Mannat
 
-<!---
-Mannatbhatt/Mannatbhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Engineering student passionate about **AI, web development, and building creative projects.**
+
+🚀 Currently learning:
+
+* AI & Agentic AI
+* Full-Stack Development
+* DSA
+
+Always building, always learning, and always open to new ideas.
+
+⭐ *Build. Learn. Create.*
